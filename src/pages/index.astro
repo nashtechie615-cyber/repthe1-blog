@@ -1,0 +1,60 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SHOP_URL, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const blogHref = `${import.meta.env.BASE_URL}blog`.replace(/\/+/g, '/');
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				max-width: 760px;
+				margin: 0 auto;
+				padding: 3rem 1.5rem;
+				line-height: 1.7;
+			}
+			h1 {
+				font-size: 2.4rem;
+				margin-bottom: 0.5rem;
+				color: #202219;
+			}
+			.tagline {
+				color: #6B4F36;
+				font-size: 1.15rem;
+				margin-bottom: 2rem;
+			}
+			.cta {
+				display: inline-block;
+				background: #202219;
+				color: #f6eddd;
+				padding: 0.85rem 1.8rem;
+				border-radius: 8px;
+				text-decoration: none;
+				font-weight: 600;
+				margin-right: 0.75rem;
+			}
+			.cta-alt {
+				background: #f6eddd;
+				color: #202219;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Rep The One</h1>
+			<p class="tagline">Faith-forward Christian streetwear, devotionals, and stories from <a href={SHOP_URL}>repthe1.com</a>.</p>
+			<p>Walk boldly. Speak truth. Every post is an invitation to wear your faith and share the message.</p>
+			<p style="margin-top:2rem">
+				<a class="cta" href={blogHref}>Read the Blog</a>
+				<a class="cta cta-alt" href={SHOP_URL}>Shop RepThe1</a>
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
