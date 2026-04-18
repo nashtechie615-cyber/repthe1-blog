@@ -1,10 +1,10 @@
 ---
 title: "Our World Needs Jesus Unisex Hoodie: Faith You Can Wear"
 description: "A simple truth the world needs to hear. Wear it loud. Shop the Our World Needs Jesus Unisex Hoodie and the full RepThe1 Christian streetwear collection."
-pubDate: "2026-04-17T11:30:01"
+pubDate: "2026-04-17T23:30:01"
 heroImage: "https://repthe1.com/cdn/shop/files/christian-hoodie-green-out-world-needs-jesus-1.jpg?v=1766410085&width=1200"
 category: "Apparel"
-wpUrl: "https://vettedview.com/2026/04/17/our-world-needs-jesus-unisex-hoodie-faith-you-can-wear/"
+wpUrl: "https://vettedview.com/2026/04/18/our-world-needs-jesus-unisex-hoodie-faith-you-can-wear-2/"
 shopUrl: "https://repthe1.com"
 ---
 
