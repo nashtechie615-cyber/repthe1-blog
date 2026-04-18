@@ -1,10 +1,10 @@
 ---
 title: "God of Miracles Unisex Hoodie: Faith You Can Wear"
 description: "He is the same God yesterday, today, and forever. Miracles are not over. Shop the God of Miracles Unisex Hoodie and the full RepThe1 Christian streetwear collection."
-pubDate: "2026-04-17T13:30:01"
+pubDate: "2026-04-17T21:30:01"
 heroImage: "https://repthe1.com/cdn/shop/files/christian-hoodie-grey-miracles-graphic-style-1.jpg?v=1766409854&width=1200"
 category: "Apparel"
-wpUrl: "https://vettedview.com/2026/04/17/god-of-miracles-unisex-hoodie-faith-you-can-wear/"
+wpUrl: "https://vettedview.com/2026/04/18/god-of-miracles-unisex-hoodie-faith-you-can-wear-2/"
 shopUrl: "https://repthe1.com"
 ---
 
