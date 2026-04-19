@@ -1,10 +1,10 @@
 ---
 title: "God's Still Working Kids Hoodie: Faith You Can Wear"
 description: "Raise them in faith. Let the little ones know God is not done yet. Shop the God's Still Working Kids Hoodie and the full RepThe1 Christian streetwear collection."
-pubDate: "2026-04-19T07:30:01"
+pubDate: "2026-04-19T13:30:02"
 heroImage: "https://repthe1.com/cdn/shop/files/christian-kids-apparel-grey-sweatshirt-back-view.jpg?v=1766411588&width=1200"
 category: "Apparel"
-wpUrl: "https://vettedview.com/2026/04/19/gods-still-working-kids-hoodie-faith-you-can-wear-2/"
+wpUrl: "https://vettedview.com/2026/04/19/gods-still-working-kids-hoodie-faith-you-can-wear-3/"
 shopUrl: "https://repthe1.com"
 ---
 
