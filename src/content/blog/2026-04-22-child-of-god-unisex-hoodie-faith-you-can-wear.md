@@ -1,10 +1,10 @@
 ---
 title: "Child of God Unisex Hoodie: Faith You Can Wear"
 description: "Your identity is settled. You are a child of the Most High. Shop the Child of God Unisex Hoodie and the full RepThe1 Christian streetwear collection."
-pubDate: "2026-04-22T07:30:02"
+pubDate: "2026-04-22T17:30:02"
 heroImage: "https://repthe1.com/cdn/shop/files/christian-hoodie-i-am-a-child-of-god-back-view.jpg?v=1766410214&width=1200"
 category: "Apparel"
-wpUrl: "https://vettedview.com/2026/04/22/child-of-god-unisex-hoodie-faith-you-can-wear-4/"
+wpUrl: "https://vettedview.com/2026/04/22/child-of-god-unisex-hoodie-faith-you-can-wear-5/"
 shopUrl: "https://repthe1.com"
 ---
 
