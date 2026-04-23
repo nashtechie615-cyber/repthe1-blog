@@ -1,10 +1,10 @@
 ---
 title: "Prayer Line Unisex Tee: Faith You Can Wear"
 description: "Stay connected to the source. The prayer line is always open. Shop the Prayer Line Unisex Tee and the full RepThe1 Christian streetwear collection."
-pubDate: "2026-04-22T03:30:02"
+pubDate: "2026-04-22T19:30:02"
 heroImage: "https://repthe1.com/cdn/shop/files/christian-apparel-t-shirt-jesus-saves-back-design.jpg?v=1766410825&width=1200"
 category: "Apparel"
-wpUrl: "https://vettedview.com/2026/04/22/prayer-line-unisex-tee-faith-you-can-wear-4/"
+wpUrl: "https://vettedview.com/2026/04/23/prayer-line-unisex-tee-faith-you-can-wear-5/"
 shopUrl: "https://repthe1.com"
 ---
 
