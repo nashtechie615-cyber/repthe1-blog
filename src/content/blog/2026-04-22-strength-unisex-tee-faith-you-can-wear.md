@@ -1,10 +1,10 @@
 ---
 title: "Strength Unisex Tee: Faith You Can Wear"
 description: "Your strength comes from the Lord. Wear that reminder daily. Shop the Strength Unisex Tee and the full RepThe1 Christian streetwear collection."
-pubDate: "2026-04-22T11:30:02"
+pubDate: "2026-04-22T21:30:02"
 heroImage: "https://repthe1.com/cdn/shop/files/christian-apparel-t-shirt-strength-design-back-view.jpg?v=1766410979&width=1200"
 category: "Apparel"
-wpUrl: "https://vettedview.com/2026/04/22/strength-unisex-tee-faith-you-can-wear-4/"
+wpUrl: "https://vettedview.com/2026/04/23/strength-unisex-tee-faith-you-can-wear-5/"
 shopUrl: "https://repthe1.com"
 ---
 
