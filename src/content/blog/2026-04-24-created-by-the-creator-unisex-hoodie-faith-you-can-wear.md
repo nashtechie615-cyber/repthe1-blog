@@ -1,10 +1,10 @@
 ---
 title: "Created by the Creator Unisex Hoodie: Faith You Can Wear"
 description: "You were intentionally made by the Creator of the universe. Shop the Created by the Creator Unisex Hoodie and the full RepThe1 Christian streetwear collection."
-pubDate: "2026-04-24T03:30:02"
+pubDate: "2026-04-24T09:30:02"
 heroImage: "https://repthe1.com/cdn/shop/files/christian-hoodie-created-by-the-creator-back-design.jpg?v=1766409851&width=1200"
 category: "Apparel"
-wpUrl: "https://vettedview.com/2026/04/24/created-by-the-creator-unisex-hoodie-faith-you-can-wear-5/"
+wpUrl: "https://vettedview.com/2026/04/24/created-by-the-creator-unisex-hoodie-faith-you-can-wear-6/"
 shopUrl: "https://repthe1.com"
 ---
 
