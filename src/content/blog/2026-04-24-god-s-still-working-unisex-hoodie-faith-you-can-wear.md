@@ -1,10 +1,10 @@
 ---
 title: "God's Still Working Unisex Hoodie: Faith You Can Wear"
 description: "He is not finished with you yet. Trust the process. Shop the God's Still Working Unisex Hoodie and the full RepThe1 Christian streetwear collection."
-pubDate: "2026-04-24T05:30:02"
+pubDate: "2026-04-24T17:30:02"
 heroImage: "https://repthe1.com/cdn/shop/files/christian-hoodie-gray-floral-back-design.jpg?v=1766409328&width=1200"
 category: "Apparel"
-wpUrl: "https://vettedview.com/2026/04/24/gods-still-working-unisex-hoodie-faith-you-can-wear-5/"
+wpUrl: "https://vettedview.com/2026/04/24/gods-still-working-unisex-hoodie-faith-you-can-wear-6/"
 shopUrl: "https://repthe1.com"
 ---
 
